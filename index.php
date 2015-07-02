@@ -176,7 +176,7 @@ if(y>z)
 if(z>y)
 { 
   ans = (z/(y+z))*100;
- alert("The statement is negative");
+ //alert("The statement is negative");
 document.getElementById("demo").innerHTML = "Negative Statement" + "<Br> " + "Total no of words are" + " " + l + "<br>" + "Percent negativity in the text is" + " " + ans + "%";
 document.getElementById("demo").style.color = "red";
 }
@@ -184,7 +184,7 @@ document.getElementById("demo").style.color = "red";
 
 if(z==y)
 {
-alert("The statement is neutral");
+//alert("The statement is neutral");
 document.getElementById("demo").innerHTML = "Neutral Statement";
 }
 	
