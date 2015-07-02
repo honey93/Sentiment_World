@@ -1,3 +1,47 @@
+This application can analyse the opinion out of the text. click on Index.html and
+Application will run. It a database of more than 4000 polarity words having
+sentiment hidden in it. It uses those words and some algorithms to analyse the
+sentences on the basis of sentiment level sentiment analysis, and like this It
+computes the sentiment of entire document and publishes the results.
+
+
+
+
+
+Source:    Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+;       Proceedings of the ACM SIGKDD International Conference on Knowledge 
+;       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+;       Washington, USA, 
+;   Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+;       and Comparing Opinions on the Web." Proceedings of the 14th 
+;       International World Wide Web conference (WWW-2005), May 10-14, 
+;       2005, Chiba, Japan.
+
+   http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+;
+; If you use this list, please cite one of the following two papers:
+;
+;   Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+;       Proceedings of the ACM SIGKDD International Conference on Knowledge 
+;       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+;       Washington, USA, 
+;   Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+;       and Comparing Opinions on the Web." Proceedings of the 14th 
+;       International World Wide Web conference (WWW-2005), May 10-14, 
+;       2005, Chiba, Japan.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Prologue by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
