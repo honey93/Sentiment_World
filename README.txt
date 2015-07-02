@@ -1,5 +1,5 @@
 This application can analyse the opinion out of the text. click on Index.html and
-Application will run. It a database of more than 4000 polarity words having
+Application will run. It a database of more than 5000 polarity words having
 sentiment hidden in it. It uses those words and some algorithms to analyse the
 sentences on the basis of sentiment level sentiment analysis, and like this It
 computes the sentiment of entire document and publishes the results.
