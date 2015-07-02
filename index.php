@@ -32,6 +32,10 @@
 		
 function validateForm() 
 {
+
+document.getElementById("demo").innerHTML = "Processing..." + "<Br> " + "In a few seconds results will be displayed";
+document.getElementById("demo").style.color = "black";
+
 //event.preventDefault();
 	var y = 0;
     var z = 0;
