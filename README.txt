@@ -1,11 +1,11 @@
-This application can analyse the opinion out of the text. click on Index.html and
-Application will run. It a database of more than 5000 polarity words having
+This application can analyse the opinion out of the text. Open Index.php to get the logic. 
+It uses a database of more than 5000 polarity words having
 sentiment hidden in it. It uses those words and some algorithms to analyse the
 sentences on the basis of sentiment level sentiment analysis, and like this It
 computes the sentiment of entire document and publishes the results.
 
 
-
+For Databse parse.com has been used to store the list of sentiment rich words.
 
 
 Source:    Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
